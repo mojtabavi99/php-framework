@@ -2,12 +2,12 @@
     "name": "mojtabavi/php-mvc-framework",
     "autoload": {
         "psr-4": {
-            "Mojtabavi\\PhpMvcFramework\\": "src/"
+            "app\\": "./"
         }
     },
     "authors": [
         {
-            "name": "mojtabavi99",
+            "name": "Mahdi Mojtabavi",
             "email": "m.mojtabavi@outlook.com"
         }
     ],
