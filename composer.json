@@ -1,0 +1,15 @@
+{
+    "name": "mojtabavi/php-mvc-framework",
+    "autoload": {
+        "psr-4": {
+            "Mojtabavi\\PhpMvcFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mojtabavi99",
+            "email": "m.mojtabavi@outlook.com"
+        }
+    ],
+    "require": {}
+}
