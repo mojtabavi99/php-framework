@@ -1,5 +1,7 @@
 {
     "name": "mojtabavi/php-mvc-framework",
+    "description": "simple php MVC framework",
+    "type": "project",
     "autoload": {
         "psr-4": {
             "app\\": "./"
@@ -11,5 +13,7 @@
             "email": "m.mojtabavi@outlook.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4.0"
+    }
 }
